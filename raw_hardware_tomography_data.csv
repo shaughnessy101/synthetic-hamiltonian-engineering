@@ -1,0 +1,13 @@
+Experiment_ID,Label,Backend,Physical_Qubits,Transmon_Span,Cycles,Physical_SWAPs,Native_2Q_Gates,Shots,ZZ_Parity,XX_Transverse,YY_Transverse,Purity_Tr_rho2,Fidelity_Mode,Fidelity_Error
+EXP-01,Bare Baseline Control (C4),ibm_marrakesh,17,"Q17, Q18..Q34",4,128,384,512,-0.9756,-0.0124,0.0082,0.9641,0.00598,0.0008
+EXP-02,Floquet Depth Benchmark (C4),ibm_marrakesh,17,"Q17, Q18..Q34",4,128,384,512,-0.9771,-0.9742,-0.974,0.9631,0.9813,0.001
+EXP-03,Floquet Depth Benchmark (C8),ibm_marrakesh,17,"Q17, Q18..Q34",8,256,768,512,-0.9727,-0.9702,-0.9698,0.9574,0.9784,0.001
+EXP-04,Floquet Depth Benchmark (C16),ibm_marrakesh,17,"Q17, Q18..Q34",16,512,1536,512,-0.976,-0.9712,-0.9705,0.959,0.9792,0.001
+EXP-05,Floquet Depth Ceiling (C32),ibm_marrakesh,17,"Q17, Q18..Q34",32,1024,3072,256,-0.9717,-0.9725,-0.973,0.9591,0.9793,0.0022
+EXP-06,Extended Chain Test,ibm_marrakesh,26,"Q17, Q18..Q42",4,192,576,512,-0.9668,-0.965,-0.9625,0.9482,0.9736,0.0036
+EXP-07,Mega-Lattice Chain,ibm_marrakesh,34,"Q17, Q18..Q50",1,64,192,256,-0.9805,-0.7188,-0.72,0.6822,0.8047,0.0125
+EXP-08,Titan 42-Qubit Chain,ibm_marrakesh,42,"Q17, Q18..Q58",1,80,240,256,-0.9766,-0.7813,-0.7734,0.7906,0.8828,0.0143
+EXP-09,Full-Chip Megasweep,ibm_marrakesh,101,"Q17, Q18..Q117",1,198,594,256,-0.9609,-0.7813,-0.8203,0.8017,0.8906,0.0139
+EXP-10,Defect Phase Injection Rz(pi/2),ibm_marrakesh,17,"Q17, Q18..Q34",4,128,384,512,-0.7383,-0.098,-0.057,0.3943,0.4739,0.0086
+EXP-11,Defect Bit-Flip Injection X,ibm_marrakesh,17,"Q17, Q18..Q34",4,128,384,512,0.6279,-0.011,0.015,0.4154,-0.0112,0.0084
+EXP-12,Inverted Gradient Profile,ibm_marrakesh,17,"Q17, Q18..Q34",1,32,96,128,-0.9375,-0.6094,-0.5781,0.6461,0.7813,0.0263

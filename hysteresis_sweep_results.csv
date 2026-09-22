@@ -1,0 +1,6 @@
+Threshold Band,Band Gap,Integral Coherence,Integral Decay Loss,Integral Q-Factor,Avg Bounces,Bounce Rate
+Band 1: [0.45 - 0.80] (Wide),0.35,6.3604,2.5127,2.5313,0.88,0.0880
+Band 2: [0.50 - 0.75] (Baseline),0.25,6.4542,2.4518,2.6324,0.92,0.0920
+Band 3: [0.55 - 0.70] (Moderate),0.15,6.3301,2.5409,2.4913,0.92,0.0920
+Band 4: [0.58 - 0.66] (Tight),0.08,6.5175,2.4564,2.6533,0.92,0.0920
+Band 5: [0.61 - 0.63] (Ultra-Tight),0.02,6.1565,2.5952,2.3722,0.92,0.0920
