@@ -132,4 +132,4 @@ Champion Standing-Wave Cancellation: damobvopqrnc7397s1fg (Achieving 99.45% raw 
 
 ​Citation
 
-​Please cite this work via Zenodo DOI: [DOI_LINK_HERE]
+​Please cite this work via Zenodo DOI: (https://doi.org/10.5281/zenodo.22898763)
